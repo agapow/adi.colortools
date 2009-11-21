@@ -1,0 +1,13 @@
+dist
+build
+*.pyc
+*~
+*.egg-info
+*.aux
+*.toc
+*.log
+*.nav
+*.out
+*.snm
+dev
+chaff
